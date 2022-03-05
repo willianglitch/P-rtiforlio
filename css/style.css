@@ -5,7 +5,7 @@
     outline: none;
 }
 body , html{
-    background-color: #FFAD60 ;
+    background-color: #1A1A40 ;
     color: white;
     overflow-x: hidden;
     width: 100%;
@@ -106,7 +106,8 @@ a{
         padding-bottom: 20px;
     }
 .content-text p{
-        color: #e45d1f;
+        color: #000;
+        font-weight: normal;
     }
 .content-text h1{
     color: #3eb9df;
@@ -134,7 +135,6 @@ a{
 
 .place{
     margin-top: 100px;
-    background-color: #2C3333 ;
     height: 100%;
     width: 100%;
 }
@@ -145,6 +145,8 @@ a{
     font-size: 20px;
 }
 .organization{
+    flex-wrap: wrap;
+    gap: 30px;
     display: flex;
     justify-content: center;
     padding-bottom: 100px;
