@@ -8,7 +8,7 @@ body , html{
     background-color: #1A1A40 ;
     color: white;
     overflow-x: hidden;
-    width: 100%;
+    /* width: 100%; */
     font-family: oswald;
 }
 
@@ -175,8 +175,41 @@ na minha opinião */
     margin: 10px 0px;
 }
 .card img{
+
     height: 155px;
     width: 100%;
+}
+
+/* ===================================== ABOUT ME AND CONTATAC=================================== */
+
+.about-position{
+    margin-bottom: 70px;
+}
+.place-02{
+    display: flex;
+    justify-content: center;
+}
+.about-content{
+    height: 300px;
+    margin-left: 40px;
+    margin-right: 100px;
+    margin-top: 10px;
+    max-width: 500px;
+}
+.about-content h1{
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+.about-content p{
+    font-size: 20px;
+    margin-bottom: 25px;
+
+}
+.about-image  img{
+    height: 300px;
+    border-radius: 50%;
+    cursor: pointer;
 }
 
 
