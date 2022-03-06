@@ -207,9 +207,24 @@ na minha opinião */
 
 }
 .about-image  img{
-    height: 300px;
+    height: 330px;
     border-radius: 50%;
     cursor: pointer;
+}
+
+ /*============================= parte onde mostrar as habilidades ==================*/
+
+.skill-position{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px;
+}
+.social , img{
+    height: 50px;
+    cursor: pointer;
+}
+.social{
+    padding-left: 20px;
 }
 
 
