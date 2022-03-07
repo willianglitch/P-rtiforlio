@@ -257,6 +257,10 @@ na minha opinião */
     justify-content: center;
     padding-bottom: 65px;
 }
+.contato a{
+    display: flex;
+    color: #fff;
+}
 .contato p{
     font-size: 18px;
     font-weight: normal;
