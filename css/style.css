@@ -18,7 +18,7 @@ body , html{
 
 header{
     /* efeito de fundo animado do site onde ficar o header */
-    background: linear-gradient(45deg,#98BAE7 ,#000957,#502064,#8939d8);
+    background: linear-gradient(45deg,#C996CC ,#000000,#9D84B7,#345B63);
     background-size: 300% 300%;
     /* Agora vem a animação */
     animation: colors 15s ease infinite;
