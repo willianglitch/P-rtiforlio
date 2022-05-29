@@ -5,8 +5,8 @@
     outline: none;
 }
 body , html{
-    background-color: #1A1A40 ;
-    color: white;
+    background-color:var(--cor-azul-forte);
+    color:var(--cor-branco-fraco);
     overflow-x: hidden;
     /* width: 100%; */
     font-family: oswald;
