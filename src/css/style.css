@@ -151,7 +151,6 @@ na minha opinião */
 }
 
 /* ===================================== ABOUT ME AND CONTATAC=================================== */
-
 .about-position{
     margin-bottom: 70px;
 }
@@ -183,7 +182,6 @@ na minha opinião */
 }
 
  /*============================= parte onde mostrar as habilidades ==================*/
-
 .skill-position{
     display: flex;
     justify-content: center;
@@ -198,14 +196,12 @@ na minha opinião */
 }
 
 /* ============================ contato ============================== */
-
 .posit{
     height: 600px;
     width: 100%;
     background-color:var(--cor-verde-forte);
     display: flex;
-    justify-content: center;
-    
+    justify-content: center;  
 }
 .posit h1 {
     font-size: 35px;
