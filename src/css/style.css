@@ -182,7 +182,7 @@ a{
     
 }
 .card{
-    height: 230px;
+    height: 400px;
     width: 300px;
     background-color:var(--cor-roxa-transparente);
     margin-left: 25px;
