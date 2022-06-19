@@ -188,6 +188,7 @@ a{
     margin-left: 25px;
     border-radius: 10px;
     border: solid 2px var(--cor-branco-fraco);
+    box-sizing: border-box;
 }
 /* por eu colocar essas propriedades em uma propriedade acima : acabou por criar um efeito muito legal 
 na minha opinião */
@@ -210,8 +211,9 @@ na minha opinião */
     width: 100%;
 }
 .content3 p{
+    box-sizing: border-box;
     margin-top: 4px;
-    margin-bottom: 8px;
+    margin-bottom: 12px;
     padding-left: 5px;
     font-weight: normal;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
