@@ -209,6 +209,13 @@ na minha opinião */
     height: 155px;
     width: 100%;
 }
+.content3 p{
+    margin-top: 4px;
+    margin-bottom: 8px;
+    padding-left: 5px;
+    font-weight: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 
 /* ============================ contato ============================== */
 .posit{
