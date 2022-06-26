@@ -112,6 +112,21 @@ a{
     transition: 1s ease;
 }
 
+ /*============================= parte onde mostrar as habilidades ==================*/
+ .skill-position{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+.social  img{
+    height: 50px;
+    cursor: pointer;
+}
+.social{
+    padding-left: 20px;
+}
+
 /* ===================================== ABOUT ME AND CONTATAC=================================== */
 .about-position{
     margin-bottom: 70px;
@@ -144,19 +159,6 @@ a{
     cursor: pointer;
 }
 
- /*============================= parte onde mostrar as habilidades ==================*/
-.skill-position{
-    display: flex;
-    justify-content: center;
-    margin-bottom: 100px;
-}
-.social  img{
-    height: 50px;
-    cursor: pointer;
-}
-.social{
-    padding-left: 20px;
-}
 
 /* =========================PRÓJETOS==================== */
 
@@ -317,10 +319,12 @@ footer{
     height: 70px;
     align-items: center;
     display: flex;
+    align-text: center;
     justify-content: center;
+    align-items: center; 
 }
 footer h1{
     font-size: 17px;
     font-weight: normal;
-    color:var(--cor-branco-fraco);
+    color:var(--cor-cinza);
 }
