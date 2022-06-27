@@ -2,4 +2,7 @@
 // preciso que sejá mudado para outro src quando o mouse passar em cima 
 
 const minhaFoto = document.querySelector("#minhaFoto")
-console.log(minhaFoto)
+
+minhaFoto.addEventListener("mouseover",function(){
+    minhaFoto.setAttribute("src","./src/assets/willian02.jpg")
+})
