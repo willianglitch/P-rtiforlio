@@ -1,8 +1,30 @@
 // pegar o atributo da imagem 
 // preciso que sejá mudado para outro src quando o mouse passar em cima 
 
-const minhaFoto = document.querySelector("#minhaFoto")
+let minhaFoto = document.getElementById("minhaFoto")
+ 
+console.log(minhaFoto)
 
-minhaFoto.addEventListener("mouseover",function(){
-    minhaFoto.setAttribute("src","./src/assets/willian02.jpg")
+minhaFoto.addEventListener("mouseenter",function(){
+    minhaFoto.setAttribute("src","./src/assets/willian03.jpg")
+    minhaFoto.setAttribute("src","./src/assets/willian04.jpg")
+
+
+
 })
+
+
+// let leafeon = document.getElementById("leaf");
+
+// leafeon.addEventListener("click", function(){
+   
+//    leafeon.setAttribute("src","./assets/evee.png")
+   
+//    leafeon.addEventListener("click", mudarFoto)
+
+//    function mudarFoto(){
+//       leafeon.setAttribute("src","./assets/shandsherion.png")
+//       leafeon.setAttribute("height", "350px")
+//    }
+   
+// });

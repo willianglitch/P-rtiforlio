@@ -153,10 +153,18 @@ a{
     margin-bottom: 25px;
 
 }
-.about-image  img{
+.about-image{
+    border:solid 5px orange;
+    border-radius:50%;
+    padding:10px;
+}
+.about-image img{
     height: 330px;
+    /* width: 330px; */
+    box-sizing:border-box;
     border-radius: 50%;
     cursor: pointer;
+    transition: 0.1s ease ;
 }
 
 
