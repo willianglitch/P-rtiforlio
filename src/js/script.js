@@ -1,3 +1,12 @@
+// preciso pegar a largura do site e retirar um atributo 
+
+let larguraPagina = document.getElementsByTagName("body")
+larguraPagina.value
+console.log(larguraPagina)
+
+
+
+
 // pegar o atributo da imagem 
 // preciso que sejá mudado para outro src quando o mouse passar em cima 
 
