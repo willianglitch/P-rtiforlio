@@ -1,0 +1,19 @@
+@media (max-width: 800px){
+    .container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column-reverse;
+    }
+    .calendario{
+        margin-top: 20px;
+    }
+    .relogio{
+        width: 380px;
+    }
+    .relogio div{
+        height: 130px;
+        width: 110px;
+        border-radius: 30px ;
+    }
+}
