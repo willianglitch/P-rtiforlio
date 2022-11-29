@@ -10,6 +10,9 @@
 body{
     height: 100vh;
     background: linear-gradient(140deg, #B4C4C3 , #131716);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .face-Icon{
     text-align: center;

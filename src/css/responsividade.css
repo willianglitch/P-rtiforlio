@@ -7,6 +7,7 @@
     }
     .calendario{
         margin-top: 20px;
+        margin-right: 0;
     }
     .relogio{
         width: 380px;
@@ -15,5 +16,43 @@
         height: 130px;
         width: 110px;
         border-radius: 30px ;
+    }
+}
+@media (max-width: 600px){
+    .face-Icon img{
+        height: 80px;
+    }
+    .relogio{
+        height: 150px;
+        width: 380px;
+    }
+
+}
+@media (max-width: 400px){
+    .face-Icon img{
+        height: 50px;
+    }
+    .calendario{
+        height: 380px;
+        width: 200px;
+    }
+    .calendario div{
+        height: 70px;
+        width: 140px;
+    }
+    .calendario .data{
+        font-size: 16px;
+    }
+    .relogio{
+        height: 150px;
+        width: 280px;
+    }
+    .relogio div{
+        height: 100px;
+        width: 80px;
+    }
+    .relogio span{
+        font-size: 40px;
+        text-shadow:  10px 10px 6px #4C6869;
     }
 }
