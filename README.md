@@ -31,21 +31,20 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 - Git e GitHub
-- figma
 
 <br>
 
 ## 💻 Projeto
 
- O relogio js é uma aplicação que visa mostrar as horas através do javascript !.
+ O relogio js é uma aplicação que visa usar e manipular elementos através do javascript !!.
 
-[🔗 Acesse aqui](willianglitch.github.io/Relogio-JS/)
+[🔗 Acesse aqui](https://willianglitch.github.io/Relogio-JS/)
 
 <br>
 
-## 🔖 Layout
+<!-- ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](<#>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](<#>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo. -->
 
 <br>
 
